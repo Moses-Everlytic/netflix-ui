@@ -230,7 +230,6 @@ class _ContentHeaderMobile extends StatelessWidget {
         ),
       ],
     );
-    ;
   }
 }
 
